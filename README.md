@@ -1,2 +1,19 @@
-# reaction_time
-The game is very simple, when you run the game, when you hit {play}, your time starts, when {click me} is shown to you, the less it is, you win.
+# reaction-game
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
